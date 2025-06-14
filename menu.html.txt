@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Test Menu</title></head>
+  <body>
+    <h1>Xin chào! Đây là menu test.</h1>
+  </body>
+</html>
+
